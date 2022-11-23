@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Pedro-H-Braga
-- 👀 Tenho interesse na área de automação e servidores linux
-- 🌱 Atualmente estou cursando Redes de computadores e aprendendo python  
+- 👀 Tenho interesse na área de automação de processos com python e cibersegurança
+- 🌱 Atualmente estou cursando Redes de computadores e aprendendo python para ciência de dados 
 - 💞️ Estou buscando participar de projetos na área de programação  
 - 📫 Você pode me contatar pelo email: pedrobragalima@gmail.com
 
