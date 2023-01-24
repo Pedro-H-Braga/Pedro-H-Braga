@@ -2,10 +2,10 @@
 
 - 👀 <Tenho interesse nas áreas de ciência de dados e cibersegurança>
 
-- 🌱 <Atualmente estou cursando Redes de computadores e aprendendo python e vba para automação de processos manuais de empresas>
+- 🌱 <Atualmente estou cursando Redes de computadores, trabalho na e-Rentav fazendo RPA em Python e BI>
 
-- 👾 <Estou em busca de participar de projetos na área de: 
-ciência de dados | automação de processos | cibersegurança>
+- 👾 <Gosto muito de temas como: 
+ciência de dados | RPA | cibersegurança >
 
 - 📫 <Você pode me contatar pelo email: pedrobragalima@gmail.com>
 
