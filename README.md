@@ -9,7 +9,6 @@
 </div><br/>
 
 # GitHub Status:
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&theme=algolia"
