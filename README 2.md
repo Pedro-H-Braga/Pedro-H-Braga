@@ -1,8 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">Impressões:</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-h-braga&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-h-braga" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-h-braga&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-h-braga" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://twitter.com/dulirou1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulirou1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pedro-henrique-935445218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-935445218" height="30" width="40" /></a>
