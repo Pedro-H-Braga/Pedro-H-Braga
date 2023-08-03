@@ -51,7 +51,7 @@
 </div><br/>
 
 # Redes Sociais
-
+<p align="left">
 <!-- linkedin -->
   <a href="https://linkedin.com/in/pedro-henrique-935445218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-935445218" height="30" width="40" /></a>
 <!-- instagram -->
