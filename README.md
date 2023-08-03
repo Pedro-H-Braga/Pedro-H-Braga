@@ -1,4 +1,4 @@
-# Tecnologias que trabalho:
+# Tecnologias que trabalho
 <div style="display: inline_block"><br/>
    <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -20,21 +20,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
 </div><br/>
 
-# GitHub Status:
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&theme=algolia"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&locale=pt-br" />
-</picture>
+# GitHub Status
+| Meu resumo | Minhas sequências de updates |
+|------------|-----------------------------|
+| ![Meu resumo](https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&locale=pt-br) | ![Minhas sequências de updates](https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br) |
 
-<!-- Minhas sequencias de updates -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br" alt="pedro-h-braga" /></p>
 
 # Tecnologias que já utilizei 
 
