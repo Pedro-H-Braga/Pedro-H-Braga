@@ -33,6 +33,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&locale=pt-br" />
 </picture>
 
+<!-- Minhas sequencias de updates -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br" alt="pedro-h-braga" /></p>
+
 # Tecnologias que já utilizei 
 
 <div style="display: inline_block"><br/>
