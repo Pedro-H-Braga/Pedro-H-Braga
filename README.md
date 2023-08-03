@@ -58,6 +58,9 @@
   <a href="https://instagram.com/ppedro_bl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ppedro_bl" height="30" width="40" /></a>
 </p>
 
+# Visualizações
+  <!-- visualições do perfil -->
+  <img src="https://komarev.com/ghpvc/?username=pedro-h-braga&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-h-braga" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
