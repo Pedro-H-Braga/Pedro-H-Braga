@@ -26,7 +26,7 @@
 | ![Meu resumo](https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&locale=pt-br) | ![Minhas sequências de updates](https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br) |
 
 
-# Tecnologias que já utilizei 
+# Tecnologias que já utilizei
 
 <div style="display: inline_block"><br/>
   <!-- C -->
