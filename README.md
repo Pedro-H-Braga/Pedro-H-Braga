@@ -23,7 +23,7 @@
 # GitHub Status
 | Meu resumo | Minhas sequências de updates |
 |------------|-----------------------------|
-| ![Meu resumo](https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&show_icons=true&locale=pt-br) | ![Minhas sequências de updates](https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br) |
+| ![Meu resumo](https://github-readme-stats.vercel.app/api?username=Pedro-H-Braga&showicons=true&locale=pt-br) | ![Minhas sequências de updates](https://github-readme-streak-stats.herokuapp.com/?user=pedro-h-braga&locale=pt-br) |
 
 
 # Tecnologias que já trabalhei
